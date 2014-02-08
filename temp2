@@ -1,0 +1,17 @@
+A.id|A.name|A.post|A.dept|A.dob|A.salary
+(int)|(string)|(string)|(string)|(string)|(int)
+----------------------------------------------------------------
+2233|a.k.shukla|g.m.|sales|12/12/52|6000
+9876|jai sharma|director|production|12/03/50|7000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+2365|barun sengupta|director|finance|11/05/47|7800
+5423|n.k. gupta|chairman|finance|30/08/56|5400
+1006|chanchal singhvi|director|administration|03/09/38|6700
+6213|karuna ganguly|g.m.|production|05/06/62|6300
+1265|s.n.dasgupta|manager|sales|12/09/63|5600
+4290|jayanth chaudary|executive|marketing|07/09/50|6000
+6521|lalit chaudary|director|sales|26/09/45|8200
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500
+2345|j.b. saxena|g.m.|finance|12/03/45|8000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000

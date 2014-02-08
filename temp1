@@ -1,0 +1,4 @@
+id|name|post|dept|salary
+(int)|(string)|(string)|(string)|(int)
+----------------------------------------------------------------
+9012|Chanda Kochar|c.e.o|administration|9000

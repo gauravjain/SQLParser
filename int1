@@ -1,0 +1,228 @@
+A.id|A.name|A.post|A.dept|A.dob|A.salary|B.id|B.name|B.post|B.dept|B.dob|B.salary
+(int)|(string)|(string)|(string)|(string)|(int)|(int)|(string)|(string)|(string)|(string)|(int)
+-----------------------------------------------------------------------------------------------------
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|9876|jai sharma|director|production|12/03/50|7000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|2365|barun sengupta|director|finance|11/05/47|7800
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|1076|chanchal singhvi|director|administration|03/09/38|6700
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|2476|anil aggarwal|manager|sales|01/05/59|4000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|6571|lalit chaudary|director|sales|26/09/45|7200
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+2233|a.k.shukla|g.m.|sales|12/12/52|6000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+9876|jai sharma|director|production|12/03/50|7000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+9876|jai sharma|director|production|12/03/50|7000|9876|jai sharma|director|production|12/03/50|7000
+9876|jai sharma|director|production|12/03/50|7000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+9876|jai sharma|director|production|12/03/50|7000|2365|barun sengupta|director|finance|11/05/47|7800
+9876|jai sharma|director|production|12/03/50|7000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+9876|jai sharma|director|production|12/03/50|7000|1076|chanchal singhvi|director|administration|03/09/38|6700
+9876|jai sharma|director|production|12/03/50|7000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+9876|jai sharma|director|production|12/03/50|7000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+9876|jai sharma|director|production|12/03/50|7000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+9876|jai sharma|director|production|12/03/50|7000|2476|anil aggarwal|manager|sales|01/05/59|4000
+9876|jai sharma|director|production|12/03/50|7000|6571|lalit chaudary|director|sales|26/09/45|7200
+9876|jai sharma|director|production|12/03/50|7000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+9876|jai sharma|director|production|12/03/50|7000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+9876|jai sharma|director|production|12/03/50|7000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+9876|jai sharma|director|production|12/03/50|7000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|9876|jai sharma|director|production|12/03/50|7000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|2365|barun sengupta|director|finance|11/05/47|7800
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|1076|chanchal singhvi|director|administration|03/09/38|6700
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|2476|anil aggarwal|manager|sales|01/05/59|4000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|6571|lalit chaudary|director|sales|26/09/45|7200
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+2365|barun sengupta|director|finance|11/05/47|7800|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+2365|barun sengupta|director|finance|11/05/47|7800|9876|jai sharma|director|production|12/03/50|7000
+2365|barun sengupta|director|finance|11/05/47|7800|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+2365|barun sengupta|director|finance|11/05/47|7800|2365|barun sengupta|director|finance|11/05/47|7800
+2365|barun sengupta|director|finance|11/05/47|7800|5423|n.k. gupta|chairman|finance|30/08/56|5400
+2365|barun sengupta|director|finance|11/05/47|7800|1076|chanchal singhvi|director|administration|03/09/38|6700
+2365|barun sengupta|director|finance|11/05/47|7800|6213|karuna ganguly|g.m.|production|05/06/62|6300
+2365|barun sengupta|director|finance|11/05/47|7800|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+2365|barun sengupta|director|finance|11/05/47|7800|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+2365|barun sengupta|director|finance|11/05/47|7800|2476|anil aggarwal|manager|sales|01/05/59|4000
+2365|barun sengupta|director|finance|11/05/47|7800|6571|lalit chaudary|director|sales|26/09/45|7200
+2365|barun sengupta|director|finance|11/05/47|7800|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+2365|barun sengupta|director|finance|11/05/47|7800|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+2365|barun sengupta|director|finance|11/05/47|7800|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+2365|barun sengupta|director|finance|11/05/47|7800|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|9876|jai sharma|director|production|12/03/50|7000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|2365|barun sengupta|director|finance|11/05/47|7800
+5423|n.k. gupta|chairman|finance|30/08/56|5400|5423|n.k. gupta|chairman|finance|30/08/56|5400
+5423|n.k. gupta|chairman|finance|30/08/56|5400|1076|chanchal singhvi|director|administration|03/09/38|6700
+5423|n.k. gupta|chairman|finance|30/08/56|5400|6213|karuna ganguly|g.m.|production|05/06/62|6300
+5423|n.k. gupta|chairman|finance|30/08/56|5400|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+5423|n.k. gupta|chairman|finance|30/08/56|5400|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|2476|anil aggarwal|manager|sales|01/05/59|4000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|6571|lalit chaudary|director|sales|26/09/45|7200
+5423|n.k. gupta|chairman|finance|30/08/56|5400|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+5423|n.k. gupta|chairman|finance|30/08/56|5400|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+5423|n.k. gupta|chairman|finance|30/08/56|5400|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+1006|chanchal singhvi|director|administration|03/09/38|6700|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+1006|chanchal singhvi|director|administration|03/09/38|6700|9876|jai sharma|director|production|12/03/50|7000
+1006|chanchal singhvi|director|administration|03/09/38|6700|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+1006|chanchal singhvi|director|administration|03/09/38|6700|2365|barun sengupta|director|finance|11/05/47|7800
+1006|chanchal singhvi|director|administration|03/09/38|6700|5423|n.k. gupta|chairman|finance|30/08/56|5400
+1006|chanchal singhvi|director|administration|03/09/38|6700|1076|chanchal singhvi|director|administration|03/09/38|6700
+1006|chanchal singhvi|director|administration|03/09/38|6700|6213|karuna ganguly|g.m.|production|05/06/62|6300
+1006|chanchal singhvi|director|administration|03/09/38|6700|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+1006|chanchal singhvi|director|administration|03/09/38|6700|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+1006|chanchal singhvi|director|administration|03/09/38|6700|2476|anil aggarwal|manager|sales|01/05/59|4000
+1006|chanchal singhvi|director|administration|03/09/38|6700|6571|lalit chaudary|director|sales|26/09/45|7200
+1006|chanchal singhvi|director|administration|03/09/38|6700|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+1006|chanchal singhvi|director|administration|03/09/38|6700|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+1006|chanchal singhvi|director|administration|03/09/38|6700|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+1006|chanchal singhvi|director|administration|03/09/38|6700|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|9876|jai sharma|director|production|12/03/50|7000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|2365|barun sengupta|director|finance|11/05/47|7800
+6213|karuna ganguly|g.m.|production|05/06/62|6300|5423|n.k. gupta|chairman|finance|30/08/56|5400
+6213|karuna ganguly|g.m.|production|05/06/62|6300|1076|chanchal singhvi|director|administration|03/09/38|6700
+6213|karuna ganguly|g.m.|production|05/06/62|6300|6213|karuna ganguly|g.m.|production|05/06/62|6300
+6213|karuna ganguly|g.m.|production|05/06/62|6300|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+6213|karuna ganguly|g.m.|production|05/06/62|6300|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|2476|anil aggarwal|manager|sales|01/05/59|4000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|6571|lalit chaudary|director|sales|26/09/45|7200
+6213|karuna ganguly|g.m.|production|05/06/62|6300|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+6213|karuna ganguly|g.m.|production|05/06/62|6300|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+6213|karuna ganguly|g.m.|production|05/06/62|6300|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|9876|jai sharma|director|production|12/03/50|7000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|2365|barun sengupta|director|finance|11/05/47|7800
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|5423|n.k. gupta|chairman|finance|30/08/56|5400
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|1076|chanchal singhvi|director|administration|03/09/38|6700
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|6213|karuna ganguly|g.m.|production|05/06/62|6300
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|2476|anil aggarwal|manager|sales|01/05/59|4000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|6571|lalit chaudary|director|sales|26/09/45|7200
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+1265|s.n.dasgupta|manager|sales|12/09/63|5600|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|9876|jai sharma|director|production|12/03/50|7000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|2365|barun sengupta|director|finance|11/05/47|7800
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|1076|chanchal singhvi|director|administration|03/09/38|6700
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|2476|anil aggarwal|manager|sales|01/05/59|4000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|6571|lalit chaudary|director|sales|26/09/45|7200
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+4290|jayanth chaudary|executive|marketing|07/09/50|6000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+2476|anil aggarwal|manager|sales|01/05/59|5000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+2476|anil aggarwal|manager|sales|01/05/59|5000|9876|jai sharma|director|production|12/03/50|7000
+2476|anil aggarwal|manager|sales|01/05/59|5000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+2476|anil aggarwal|manager|sales|01/05/59|5000|2365|barun sengupta|director|finance|11/05/47|7800
+2476|anil aggarwal|manager|sales|01/05/59|5000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+2476|anil aggarwal|manager|sales|01/05/59|5000|1076|chanchal singhvi|director|administration|03/09/38|6700
+2476|anil aggarwal|manager|sales|01/05/59|5000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+2476|anil aggarwal|manager|sales|01/05/59|5000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+2476|anil aggarwal|manager|sales|01/05/59|5000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+2476|anil aggarwal|manager|sales|01/05/59|5000|2476|anil aggarwal|manager|sales|01/05/59|4000
+2476|anil aggarwal|manager|sales|01/05/59|5000|6571|lalit chaudary|director|sales|26/09/45|7200
+2476|anil aggarwal|manager|sales|01/05/59|5000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+2476|anil aggarwal|manager|sales|01/05/59|5000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+2476|anil aggarwal|manager|sales|01/05/59|5000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+2476|anil aggarwal|manager|sales|01/05/59|5000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+6521|lalit chaudary|director|sales|26/09/45|8200|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+6521|lalit chaudary|director|sales|26/09/45|8200|9876|jai sharma|director|production|12/03/50|7000
+6521|lalit chaudary|director|sales|26/09/45|8200|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+6521|lalit chaudary|director|sales|26/09/45|8200|2365|barun sengupta|director|finance|11/05/47|7800
+6521|lalit chaudary|director|sales|26/09/45|8200|5423|n.k. gupta|chairman|finance|30/08/56|5400
+6521|lalit chaudary|director|sales|26/09/45|8200|1076|chanchal singhvi|director|administration|03/09/38|6700
+6521|lalit chaudary|director|sales|26/09/45|8200|6213|karuna ganguly|g.m.|production|05/06/62|6300
+6521|lalit chaudary|director|sales|26/09/45|8200|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+6521|lalit chaudary|director|sales|26/09/45|8200|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+6521|lalit chaudary|director|sales|26/09/45|8200|2476|anil aggarwal|manager|sales|01/05/59|4000
+6521|lalit chaudary|director|sales|26/09/45|8200|6571|lalit chaudary|director|sales|26/09/45|7200
+6521|lalit chaudary|director|sales|26/09/45|8200|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+6521|lalit chaudary|director|sales|26/09/45|8200|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+6521|lalit chaudary|director|sales|26/09/45|8200|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+6521|lalit chaudary|director|sales|26/09/45|8200|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|9876|jai sharma|director|production|12/03/50|7000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|2365|barun sengupta|director|finance|11/05/47|7800
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|1076|chanchal singhvi|director|administration|03/09/38|6700
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|2476|anil aggarwal|manager|sales|01/05/59|4000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|6571|lalit chaudary|director|sales|26/09/45|7200
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+3212|shyam saksena|d.g.m.|administration|12/12/55|6000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|9876|jai sharma|director|production|12/03/50|7000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|2365|barun sengupta|director|finance|11/05/47|7800
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|5423|n.k. gupta|chairman|finance|30/08/56|5400
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|1076|chanchal singhvi|director|administration|03/09/38|6700
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|6213|karuna ganguly|g.m.|production|05/06/62|6300
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|2476|anil aggarwal|manager|sales|01/05/59|4000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|6571|lalit chaudary|director|sales|26/09/45|7200
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+3564|sudhir Agarwal|executive|marketing|06/07/47|7500|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|9876|jai sharma|director|production|12/03/50|7000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|2365|barun sengupta|director|finance|11/05/47|7800
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|1076|chanchal singhvi|director|administration|03/09/38|6700
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|2476|anil aggarwal|manager|sales|01/05/59|4000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|6571|lalit chaudary|director|sales|26/09/45|7200
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+2345|j.b. saxena|g.m.|finance|12/03/45|8000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|2233|a.k.shukla|g.m.|sales|12/12/52|6000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|9876|jai sharma|director|production|12/03/50|7000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|5678|sumit chakraborty|d.g.m.|marketing|19/04/43|6000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|2365|barun sengupta|director|finance|11/05/47|7800
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|5423|n.k. gupta|chairman|finance|30/08/56|5400
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|1076|chanchal singhvi|director|administration|03/09/38|6700
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|6213|karuna ganguly|g.m.|production|05/06/62|6300
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|1205|s.n.dasgupta|manager|sales|12/09/63|5600
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|4290|jayanth chaudary|executive|marketing|07/09/50|6000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|2476|anil aggarwal|manager|sales|01/05/59|4000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|6571|lalit chaudary|director|sales|26/09/45|7200
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|3212|shyam saksena|d.g.m.|administration|12/12/55|6000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|3564|sudhir Agarwal|executive|marketing|06/08/47|7500
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|2325|j.b. saxena|g.m.|finance|12/03/45|8000
+0110|v.k.agrawal|g.m.|administration|31/12/40|9000|0110|v.k.agrawal|g.m.|administration|31/12/40|9000

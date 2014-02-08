@@ -1,0 +1,8 @@
+id|name|post|dept|salary
+(int)|(string)|(string)|(string)|(int)
+----------------------------------------------------------------
+2123|Arjun Maali|director|finance|7800
+6521|Balajiganapathi V|director|sales|8200
+5523|Harish Verma|c.x.o|operations|7500
+2345|Kamlesh Raghav|c.f.o|finance|8000
+9012|Chanda Kochar|c.e.o|administration|9000

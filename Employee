@@ -1,0 +1,18 @@
+id|name|post|dept|salary
+(int)|(string)|(string)|(string)|(int)
+--------------------------------------------------
+1727|Rajendra Prasad|v.p.|sales|6000
+9382|Ashok Sharma|director|production|7000
+2234|Shikhar Dhawan|d.g.m.|marketing|6000
+2123|Arjun Maali|director|finance|7800
+3451|Narendra Awasthi|chairman|finance|5400
+3673|Aadarsh Kedia|director|administration|6700
+1209|Avinash Jain|g.m.|production|6300
+1265|Gaurav Jain|regional manager|sales|5600
+8900|Biswas Bandhopadhyay|executive|marketing|6000
+2476|Vishal Nair|manager|sales|5000
+6521|Balajiganapathi V|director|sales|8200
+3212|Anudeep Sai|d.g.m.|finance|6000
+5523|Harish Verma|c.x.o|operations|7500
+2345|Kamlesh Raghav|c.f.o|finance|8000
+9012|Chanda Kochar|c.e.o|administration|9000
